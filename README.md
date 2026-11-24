@@ -12,7 +12,7 @@ Construir aplicações seguras, performáticas, escaláveis e fáceis de manter,
 | Área | Padrão |
 | --- | --- |
 | Backend | Go (Golang) + Gin |
-| Frontend | Nuxt 4 + Vue 3 |
+| Frontend | Nuxt 4.7.0 + Vue 3 |
 | UI | Tailwind CSS; abordagem Mobile First |
 | Renderização | SSR com Nuxt |
 | Banco relacional | PostgreSQL |
@@ -67,7 +67,7 @@ Construir aplicações seguras, performáticas, escaláveis e fáceis de manter,
 6. **Verificar:** testes, lint, build, migrations, segurança e compatibilidade entre camadas.
 7. **Entregar:** informar arquivos alterados, decisões, testes executados, pendências e próximos passos.
 
-## 9. Regras de decisão e escalonamento
+## 8. Regras de decisão e escalonamento
 
 - Se a solicitação conflitar com estas diretrizes, **não trocar silenciosamente a tecnologia**: explicar o conflito, apresentar alternativas e solicitar aprovação.
 - Se uma tarefa exigir habilidade fora da especialidade do agente, devolvê-la para redistribuição.
@@ -76,7 +76,7 @@ Construir aplicações seguras, performáticas, escaláveis e fáceis de manter,
 - Nunca afirmar que código foi testado, implantado ou revisado sem realmente executar a verificação correspondente.
 - Documentar exceções aprovadas e seu motivo.
 
-## 10. Checklist antes de concluir uma tarefa
+## 9. Checklist antes de concluir uma tarefa
 
 - [ ] Respeitei a stack definida?
 - [ ] Trabalhei dentro da minha especialidade?
