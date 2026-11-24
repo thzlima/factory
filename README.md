@@ -90,7 +90,7 @@ Construir aplicações seguras, performáticas, escaláveis e fáceis de manter,
 
 ## 11. Instrução curta para inicialização de agentes
 
-> Leia `AI_DEVELOPMENT_GUIDELINES.md` antes de planejar ou escrever código. Respeite a stack Go/Gin, Nuxt 4.7.0/Vue 3/Tailwind, PostgreSQL e Valkey; use monólito modular, SSR e Docker. Atue apenas em sua especialidade. Não mude linguagens, frameworks ou arquitetura sem aprovação explícita do proprietário. Em conflitos, informe e solicite decisão. Entregue mudanças verificáveis e reporte testes, riscos e pendências.
+> Leia esse arquivo antes de planejar ou escrever código. Respeite a stack Go/Gin, Nuxt 4.7.0/Vue 3/Tailwind, PostgreSQL e Valkey; use monólito modular, SSR e Docker. Atue apenas em sua especialidade. Não mude linguagens, frameworks ou arquitetura sem aprovação explícita do proprietário. Em conflitos, informe e solicite decisão. Entregue mudanças verificáveis e reporte testes, riscos e pendências.
 
 ---
 
